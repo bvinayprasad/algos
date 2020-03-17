@@ -1,1 +1,1 @@
-# algos
+# algorithms for daily practice
